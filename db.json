@@ -1,0 +1,39 @@
+{
+	"albums": [
+		{
+			"title": "Dr Jekyl",
+			"artist": "Duality",
+			"url": "https://66.90.93.122/ost/dr.-jekyll-and-mr.-hyde-nes-/vgxhgdaatq/04-hyde-s-theme.mp3",
+			"image": "https://img3.rnkr-static.com/user_node_img/45/891871/250/dr-jekyll-and-mr-hyde-films-photo-u1.jpg",
+			"thumbnail_image": "https://img3.rnkr-static.com/user_node_img/45/891871/250/dr-jekyll-and-mr-hyde-films-photo-u1.jpg"
+		},
+		{
+			"title": "Dr Do Little",
+			"artist": "Good Communication",
+			"url": "https://ia802306.us.archive.org/35/items/story_of_doctor_dolittle_librivox/doctor_dolittle_00_lofting_64kb.mp3",
+			"image": "https://www.snaketop.net/wp-content/themes/eGamer/timthumb.php?src=http://www.snaketop.net/wp-content/pics/Dr-Dolittle-Million-Dollar-Mutts.jpg&h=250&w=250&zc=1",
+			"thumbnail_image": "https://www.snaketop.net/wp-content/themes/eGamer/timthumb.php?src=http://www.snaketop.net/wp-content/pics/Dr-Dolittle-Million-Dollar-Mutts.jpg&h=250&w=250&zc=1"
+		},
+		{
+			"title": "Dr Spock",
+			"artist": "Luck",
+			"url": "https://www.moviesoundclips.net/movies1/startrek11/luck.mp3",
+			"image": "https://makeameme.org/media/templates/250/spock_and_kirk.jpg",
+			"thumbnail_image": "https://makeameme.org/media/templates/250/spock_and_kirk.jpg"
+		},
+		{
+			"title": "Dr Dre",
+			"artist": "Forgetfulness",
+			"url": "https://old.undergroundhiphop.com/media/audios/320kbps/oldschool/DrDre_ForgotAboutDre_OldSchool_320VBR.mp3",
+			"image": "https://s-media-cache-ak0.pinimg.com/736x/99/50/98/99509864747c9ce759b7b6a6809f0615.jpg",
+			"thumbnail_image": "https://s-media-cache-ak0.pinimg.com/736x/99/50/98/99509864747c9ce759b7b6a6809f0615.jpg"
+		},
+		{
+			"title": "Dr Feelgood",
+			"artist": "Happiness",
+			"url": "https://mp3.metalmusicarchives.com/StreamMP3.asp?id=3034",
+			"image": "https://s2.evcdn.com/images/block250/I0-001/028/453/673-9.jpeg_/dr-feelgood-73.jpeg",
+			"thumbnail_image": "https://s2.evcdn.com/images/block250/I0-001/028/453/673-9.jpeg_/dr-feelgood-73.jpeg"
+		}
+	]
+}

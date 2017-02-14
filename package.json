@@ -1,0 +1,19 @@
+{
+  "name": "api-builds",
+  "version": "1.0.0",
+  "description": "holds app projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodPBC/API_builds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoodPBC/API_builds/issues"
+  },
+  "homepage": "https://github.com/GoodPBC/API_builds#readme"
+}
