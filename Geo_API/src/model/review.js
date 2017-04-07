@@ -1,6 +1,8 @@
 import mongoose from 'mongoose';
 import FoodTruck from './foodtruck';
+
 let Schema = mongoose.Schema;
+let ObjectId = Schema.Types.ObjectId;
 
 //change to appropriate schema as need be
 let ReviewSchema = new Schema ({
@@ -10,7 +12,7 @@ let ReviewSchema = new Schema ({
 	},
 	text: String,
 	foodtruck: {
-		type: Schema.Types.ObjectId, 		//this is where we are going to store the id of the foodtruck
+		type: ObjectId, 		//this is where we are going to store the id of the foodtruck
 		ref: FoodTruck,
 		required: true
 	}

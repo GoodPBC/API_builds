@@ -1,6 +1,9 @@
 import mongoose from 'mongoose';
 import Review from './review';
+
 let Schema = mongoose.Schema;
+let ObjectId = Schema.Types.ObjectId;
+
 
 //change to appropriate schema as need be
 let FoodTruckSchema = new Schema ({
@@ -17,7 +20,7 @@ let FoodTruckSchema = new Schema ({
 		type: { type: String, default: 'Point'},
 		coordinates: [Number]
 	},
-	reviews: [{type: Schema.Types.ObjectId, ref: 'Review'}]
+	reviews: [{type: ObjectId, ref: Review}]
 });
 
 module.exports = mongoose.model('FoodTruck', FoodTruckSchema);

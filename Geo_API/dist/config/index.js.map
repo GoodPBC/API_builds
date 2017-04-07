@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/config/index.js"],"names":[],"mappings":";;;;;kBAAgB;AACf,SAAQ,IADO;AAEf,aAAY,6CAFG,EAE4C;AAC3D,cAAa;AAHE,C","file":"index.js","sourcesContent":[" export default {\n\t'port': 3001,\n\t'mongoUrl': \"mongodb://127.0.0.1:27017/foodtruck-apiTest\", // this will be changed to the proper mongodb URL\n\t'bodyLimit': '100kb'\n}\n"]}
